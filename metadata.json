@@ -1,0 +1,6 @@
+{
+  "name": "GoldPulse AI - XAU/USD Signals & Terminal",
+  "description": "Professional XAU/USD gold trading terminal with transparent Signal Score indicators, AI market intelligence, backtesting engine, and precision risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
